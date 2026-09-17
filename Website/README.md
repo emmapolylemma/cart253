@@ -1,6 +1,3 @@
 # My pets
 
-## This webiste is to showcase my pets
-
-This
-
+## ([image](https://www.magnific.com/free-photos-vectors/random-).jpg)

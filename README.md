@@ -1,6 +1,6 @@
-# title
+# Emma Rose's work
 
-## desc
+## Where I will store all my work for this class
 
-This is Pippin Barr’s coursework repository for CART253
+Hello! C:
 
