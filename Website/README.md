@@ -1,3 +1,3 @@
 # My pets
 
-## ([image](https://www.magnific.com/free-photos-vectors/random-).jpg)
+## ![alt text](image.png)
