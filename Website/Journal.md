@@ -12,4 +12,6 @@ I also know that to link an image i just use this !
 
 When I figure out these things, it makes me feel real good about myself. All my life i've been the "dumb kid" in classes and finally doing something I find challenging or difficult really boosts my confidence.
 
-![my work](/Website/Images/Image.jpeg)
+![my work](./Images/desktop.jpeg.)
+
+
