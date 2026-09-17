@@ -1,6 +1,6 @@
-# title
+# My pets
 
-## desc
+## This webiste is to showcase my pets
 
-This is Pippin Barr’s coursework repository for CART253
+This
 
