@@ -1,24 +1,25 @@
 /**
- * Title of Project
- * Author Name
+ * Introduction to variables
+ * Emma Rose Forget
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
- */
+ * Testing variables and different functions / names
+    */
 
 "use strict";
 
-/**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
-*/
-function setup() {
 
+function setup() {
+// Create the canvas
+    createCanvas(640, 640);
 }
 
-
-/**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
-*/
 function draw() {
-
+background(0);
+    
+    // Draw a circle in the centre of the canvas
+    push();
+    noStroke();
+    fill(mouseX, mouseY, 0);
+    ellipse(width/2, height/2, 100, 100);
+    pop();
 }

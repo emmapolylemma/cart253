@@ -1,12 +1,14 @@
-# TITLE OF PROJECT
+# Indrotucing variables
 
-AUTHOR NAME
+Emma Rose Forget
 
 [View this project online](URL_FOR_THE_RUNNING_PROJECT)
 
 ## Description
 
 This description should help the reader understand what the program is, anything they should know to be able to experience it (controls, special features, etc.), and what the desired user experience is. For example:
+
+This code was testing how variables work, how to use them, what happens when you change the eclipse to mouse x/y and back.
 
 ## Attribution
 
