@@ -9,18 +9,12 @@
 
 // Adding the canvas and adding a circle
 function setup() {
-    createCanvas(100, 100);
+    createCanvas(350, 350);
 
-    background(200);
-
-    circle(50, 50, 25);
+    background(blue);
 
 }
 
-
-/**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
-*/
 function draw() {
-
+    circle(50, 50, 25);
 }
