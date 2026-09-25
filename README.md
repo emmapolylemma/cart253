@@ -6,4 +6,10 @@ Prototypes!:
 
 [The Sun](./Prototypes/the%20sun/js/script.js)
 ![Screenshot](./Prototypes/the%20sun/the%20sun%20screenshot.png)
-[Journal entry](./Prototypes/the%20sun/Journal.md)
+[Journal entry for the sun](./Prototypes/the%20sun/Journal.md)
+
+-----------------
+
+[Ladybug](./Prototypes/Ladybug/js/script.js)
+![Screenshot](./Prototypes/Ladybug/ladybug%20screenshot.png)
+[Journal entry for the ladybug](./Prototypes/Ladybug/journal.md)
