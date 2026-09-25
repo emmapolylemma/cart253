@@ -18,4 +18,4 @@ Prototypes!:
 
 [Heart](./Prototypes/heart/js/script.js)
 ![Screenshot](./Prototypes/heart/heart%20screenshot.png)
-[Journal entry for the heart](./Prototypes/heart/)
+[Journal entry for the heart](/Prototypes/heart/Journal.md)
