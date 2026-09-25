@@ -9,7 +9,7 @@
 
 // 
 function setup() {
-    createCanvas(640, 640);
+    createCanvas(670, 640);
 }
 
 // Drawing the heart
