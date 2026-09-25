@@ -18,7 +18,7 @@ function draw() {
     // Draw a circle in the centre of the canvas
     push();
     noStroke();
-    fill(255, 255, 0);
+    fill(255, 255, 100);
     ellipse(320, 320, 100, 100);
     pop();
 
@@ -69,6 +69,5 @@ function draw() {
     strokeWeight(10);
 
     line(190, 400, 250, 370);
-
 
 }
