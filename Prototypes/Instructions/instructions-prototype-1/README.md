@@ -6,7 +6,7 @@ Emma Rose Forget
 
 ## Description
 
-This description should help the reader understand what the program is, anything they should know to be able to experience it (controls, special features, etc.), and what the desired user experience is. For example:
+This is my first ever time doing the prototyping and I decided to make a sun for my first test :3
 
 ## Attribution
 
