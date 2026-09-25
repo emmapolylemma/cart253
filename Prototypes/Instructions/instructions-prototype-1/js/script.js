@@ -1,17 +1,19 @@
 /**
- * Title of Project
- * Author Name
+ * The sun
+ * Emma Rose Forget
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * First test- make a sun
  */
 
 "use strict";
 
-/**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
-*/
+// Adding the canvas and adding a circle
 function setup() {
+    createCanvas(100, 100);
+
+    background(200);
+
+    circle(50, 50, 25);
 
 }
 
