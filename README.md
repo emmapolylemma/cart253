@@ -2,5 +2,6 @@
 
 ## Where I will store all my work for this class
 
-Hello! C:
+Prototypes!:
 
+[The Sun](./Prototypes/the%20sun/js/script.js);
