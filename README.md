@@ -4,4 +4,4 @@
 
 Prototypes!:
 
-[The Sun](./Prototypes/the%20sun/js/script.js);
+[The Sun](./Prototypes/the%20sun/js/script.js)
