@@ -1,24 +1,37 @@
 /**
- * Title of Project
- * Author Name
+ * Heart
+ * Emma Rose Forget
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * For the love of my life- for Laurent. 
  */
 
 "use strict";
 
-/**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
-*/
+// 
 function setup() {
-
+    createCanvas(640, 640);
 }
 
-
-/**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
-*/
+// Drawing the heart
 function draw() {
+    background(192, 96, 96);
+
+    push();
+    noStroke();
+    fill(255, 164, 204);
+    circle(270, 250, 199);
+    pop();
+
+    push();
+    noStroke();
+    fill(255, 164, 204);
+    circle(400, 250, 199);
+    pop();
+
+    push();
+    noStroke();
+    fill(255, 164, 204);
+    triangle(330, 490, 486, 300, 184, 300);
+    pop();
 
 }
