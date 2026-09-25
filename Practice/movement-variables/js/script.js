@@ -12,16 +12,21 @@ let bird = {
     x: 120,
     y: 480,
     size: 50,
-    // NEW! We've added a velocity property to track the bird's velocity
+    // NEW! We'll set the velocity to start at 0, the bird is not moving
     velocity: {
-        // It has x and y properties so we can move the bird in both directions
-        x: 1,
-        // The y is negative because we want the bird to go UP
-        y: -2
+        x: 0,
+        y: 0
+    },
+    // NEW! We now have acceleration properties, these will be ADDED to the
+    // velocity every frame
+    acceleration: {
+        x: 0.025,
+        // The y acceleration is negative so the bird will go UP
+        y: -0.05
     }
 }
 
-// Creating canva
+// Creating canvas
 function setup() {
     createCanvas(640, 480);
 }
@@ -39,3 +44,4 @@ function draw() {
 
     // Draw the bird
     ellipse(bird.x, bird.y, bird.size);
+}
