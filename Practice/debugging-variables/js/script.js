@@ -23,13 +23,13 @@ const bug = {
     },
     // Colour
     color: "#87ceeb" // Dark brown
-
+}
 
 /**
  * Create the canvas
 */
 function setup() {
-        createCanvas(500, 500);
+    createCanvas(500, 500);
 }
 
 
