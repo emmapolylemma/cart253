@@ -34,4 +34,16 @@ function draw() {
 
     line(270, 250, 150, 100);
 
+    // Style line 3.
+    stroke('yellow');
+    strokeWeight(5);
+
+    line(320, 230, 320, 100);
+
+    // Style line 4.
+    stroke('yellow');
+    strokeWeight(5);
+
+    line(390, 250, 500, 150);
+
 }
