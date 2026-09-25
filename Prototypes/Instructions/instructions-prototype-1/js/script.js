@@ -30,20 +30,32 @@ function draw() {
 
     // Style line 2.
     stroke('yellow');
-    strokeWeight(5);
+    strokeWeight(19);
 
     line(270, 250, 150, 100);
 
     // Style line 3.
     stroke('yellow');
-    strokeWeight(5);
+    strokeWeight(7);
 
     line(320, 230, 320, 100);
 
     // Style line 4.
     stroke('yellow');
-    strokeWeight(5);
+    strokeWeight(1);
 
     line(390, 250, 500, 150);
+
+    // Style line 5.
+    stroke('yellow');
+    strokeWeight(4);
+
+    line(400, 300, 500, 300);
+
+    // Style line 6.
+    stroke('yellow');
+    strokeWeight(5);
+
+    line(380, 380, 500, 500);
 
 }
