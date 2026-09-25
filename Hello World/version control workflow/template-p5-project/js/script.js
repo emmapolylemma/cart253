@@ -21,16 +21,16 @@ function setup() {
 }
 
 /**
- * Draws a top-down view of a pyramid and also a pink circle
+ * Draws a top-down view of a pyramid and also a red circle
  * at the position of the user's cursor
 */
 function draw() {
     // Make the background black (specified as RGB)
-    background(166, 33, 20);
+    background(0, 0, 0);
 
     // Draw a pyramid
     // How many levels for the pyramid
-    const levels = 18;
+    const levels = 10;
     // Loop through every level (backwards)
     for (let level = levels; level > 0; level--) {
         // Draw this layer
@@ -42,24 +42,25 @@ function draw() {
         // No line around the levels
         noStroke();
         // Set the fill colour to our shade (RGB)
-        fill(255, 20, 147);
+        fill(shade, shade, 0);
         // Draw rectangles from the centre
         rectMode(CENTER);
         // Draw the rectangle in the centre of the canvas
         // (320, 320) with a size based on the level
         // e.g. level 1 will be a 48x48 rectangle and
         // level 10 will be a 480x480 rectangle
-        rect(320, 320, level * 16, level * 16);
+        rect(320, 320, level * 48, level * 48);
         pop();
     }
 
-    // Draw a pink circle at the position of the mouse
+    // Draw a red circle at the position of the mouse
     push();
-    // A line around the shape
+    // No line around the shape
     noStroke();
-    // Make it pink (RGB)
-    fill(255, 192, 203);
+    // Make it red (RGB)
+    fill(255, 0, 0);
     // Draw a 100x100 circle at the mouse position
     ellipse(mouseX, mouseY, 100, 100);
     pop();
 }
+
