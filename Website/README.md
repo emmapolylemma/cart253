@@ -7,6 +7,6 @@
 
 ***Journal***: [Reflective journal on the creation of this website](./Journal.md)
 
-***Project and Prototypes***: 
-- [The sun] (./Prototypes)
+***Projects and Prototypes***: 
+- 
 - 
