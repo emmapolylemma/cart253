@@ -2,7 +2,7 @@
 
 Emma Rose Forget
 
-[View this project online](http://127.0.0.1:5500/Prototypes/the%20sun/index.html)
+[View this project online]()
 
 ## Description
 
