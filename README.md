@@ -13,3 +13,9 @@ Prototypes!:
 [Ladybug](./Prototypes/Ladybug/js/script.js)
 ![Screenshot](./Prototypes/Ladybug/ladybug%20screenshot.png)
 [Journal entry for the ladybug](./Prototypes/Ladybug/journal.md)
+
+------------------
+
+[Heart](./Prototypes/heart/js/script.js)
+![Screenshot](./Prototypes/heart/heart%20screenshot.png)
+[Journal entry for the heart](./Prototypes/heart/)
