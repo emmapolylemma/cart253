@@ -1,4 +1,5 @@
-This is my journal for the sun.
+# This is my journal for the sun.
+## 24/09/2026
 
 The sun was my first attempt at creating anything with code and it actually working. After figuring out the circle and the lines using the P5 coding website, making anything from then on was pretty easy.
 
