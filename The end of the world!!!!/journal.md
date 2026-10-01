@@ -7,3 +7,5 @@ For this project, I focused more on the names for variables. With every work, I 
 This work symbolizes the inevitable, that billions of years from now the sun will grow closer and closer to the earth and eventually kill everything. 
 If i could live forever, i would want to see the world burn.
 
+Check out this projects READ.md file to watch the sun grow!
+
