@@ -84,4 +84,12 @@ function draw() {
     strokeWeight(5);
     line(300, 370, 300, 329);
 
+    stroke(mouseX, mouseY, 50);
+    strokeWeight(5);
+    line(339, 370, 339, 329);
+
+    stroke(mouseX, mouseY, 600);
+    strokeWeight(5);
+    line(370, 370, 360, 329);
+
 }

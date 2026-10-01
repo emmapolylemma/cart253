@@ -19,3 +19,6 @@ Prototypes:
 [Heart](./heart/js/script.js)
 ![Screenshot](./heart/heart%20screenshot.png)
 [Journal entry for the heart](/heart/Journal.md)
+
+----------------------
+-----------------------
