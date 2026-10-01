@@ -19,6 +19,19 @@ let sun = {
     color: [255, 200, 0]
 };
 
+// little house
+let house = {
+    x: 230,
+    y: 360,
+    width: 55,
+    height: 40,
+    color: [127, 69, 69]
+};
+
+
+
+
+
 
 
 function setup() {
@@ -34,5 +47,21 @@ function draw() {
     fill(sun.color);
     ellipse(sun.x, sun.y, sun.size);
     pop();
+
+    // Little house
+    push();
+    fill(house.color);
+    noStroke(0);
+    rect(house.x, house.y, house.width, house.height);
+    pop();
+
+    // roof of the house (no use of variables to change the name)
+    push();
+    fill(255, 0, 0);
+    noStroke(0);
+    triangle(300, 360, 258, 320, 215, 360);
+    pop();
+
+    //tree 
 
 }
