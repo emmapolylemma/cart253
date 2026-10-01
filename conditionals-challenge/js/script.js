@@ -1,23 +1,27 @@
 /**
- * Circle Master
- * Pippin Barr
+ * Overlapping Circles
+ * Emma Rose Forget
  *
- * This will be a program in which the user can push a circle
- * on the canvas using their own circle.
+ * Demonstrates the code needed to check if two circles overlap.
+ * One is static, one is controlled by the user.
  */
 
-const puck = {
+const targetCircle = {
     x: 200,
     y: 200,
     size: 100,
-    fill: "#ff0000"
+    fill: "#ff0000", // red to start
+    fills: {
+        noOverlap: "#fea2a2", // red for no overlap
+        overlap: "#000000" // green for overlap
+    }
 };
 
-const user = {
+const userCircle = {
     x: undefined, // will be mouseX
     y: undefined, // will be mouseY
     size: 75,
-    fill: "#000000"
+    fill: "#fcfcfc"
 };
 
 /**
@@ -31,42 +35,38 @@ function setup() {
  * Move the user circle, check for overlap, draw the two circles
  */
 function draw() {
-    background("#aaaaaa");
+    background("#ffcece");
 
     // Move user circle
-    moveUser();
+    userCircle.x = mouseY;
+    userCircle.y = mouseX;
 
-    // Draw the user and puck
-    drawUser();
-    drawPuck();
-}
+    // Check overlap
 
-/**
- * Sets the user position to the mouse position
- */
-function moveUser() {
-    user.x = mouseX;
-    user.y = mouseY;
-}
+    // Calculate distance between circles' centres
+    const d = dist(userCircle.x, userCircle.y, targetCircle.x, targetCircle.y);
+    // Check if that distance is smaller than their two radii, 
+    // because if it is, they are overlapping by the amazing
+    // power of geometry!
+    const overlap = (d < userCircle.size / 2 + targetCircle.size / 2);
+    // Set fill based on whether they overlap
+    if (overlap) {
+        targetCircle.fill = targetCircle.fills.overlap;
+    }
+    else {
+        targetCircle.fill = targetCircle.fills.noOverlap;
+    }
 
-/**
- * Displays the user circle
- */
-function drawUser() {
+    // Draw the two circles
     push();
     noStroke();
-    fill(user.fill);
-    ellipse(user.x, user.y, user.size);
+    fill(targetCircle.fill);
+    ellipse(targetCircle.x, targetCircle.y, targetCircle.size);
     pop();
-}
 
-/**
- * Displays the puck circle
- */
-function drawPuck() {
     push();
     noStroke();
-    fill(puck.fill);
-    ellipse(puck.x, puck.y, puck.size);
+    fill(userCircle.fill);
+    ellipse(userCircle.x, userCircle.y, userCircle.size);
     pop();
 }
