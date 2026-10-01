@@ -4,9 +4,9 @@
 
 Prototypes!:
 
-[The Sun](./Prototypes/the%20sun/js/script.js)
-![Screenshot](./Prototypes/the%20sun/the%20sun%20screenshot.png)
-[Journal entry for the sun](./Prototypes/the%20sun/Journal.md)
+[The Sun](./the%20sun/js/script.js)
+![Screenshot](./the%20sun/the%20sun%20screenshot.png)
+[Journal entry for the sun](./the%20sun/Journal.md)
 
 -----------------
 
