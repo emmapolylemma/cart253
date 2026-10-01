@@ -2,7 +2,9 @@
  * Color changing ant
  * Emma Rose Forget
  * 
- * Look at this color changing ant. It changes color when you move your cursor around it.
+ * Look at this color changing ant with some funky antennas! 
+ * 
+ * It changes color when you move your cursor around it. How it be sometimes. 
  */
 
 "use strict";
@@ -17,12 +19,14 @@ function draw() {
     // background color
     background(255, 208, 208);
 
+
     // head of ant
     push();
     noStroke();
     fill(mouseX, mouseY, 600);
     ellipse(250, 300, 70);
     pop();
+
 
     // face of the ant
     push();
@@ -36,6 +40,7 @@ function draw() {
     fill(0);
     ellipse(230, 295, 10);
     pop();
+
 
     // mouth 
     stroke('black');
@@ -60,9 +65,23 @@ function draw() {
     ellipse(350, 305, 60);
     pop();
 
+
     // antennas
-    stroke('yellow');
+    stroke(mouseX, mouseY, 160);
     strokeWeight(5);
-    line(250, 315.1, 260, 310);
+    line(259, 200, 259, 270);
+
+    stroke(mouseX, mouseY, 0);
+    strokeWeight(5);
+    line(230, 210, 230, 270);
+
+    // legs
+    stroke(mouseX, mouseY, 50);
+    strokeWeight(5);
+    line(280, 370, 286, 329);
+
+    stroke(mouseX, mouseY, 1000);
+    strokeWeight(5);
+    line(300, 370, 300, 329);
 
 }
