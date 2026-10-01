@@ -28,7 +28,23 @@ let house = {
     color: [127, 69, 69]
 };
 
+//tree 
 
+let treeTrunk = {
+    x: 170,
+    y: 350,
+    width: 10,
+    height: 55,
+    color: [131, 93, 49]
+}
+
+let treeLeaves = {
+    x: 175,
+    y: 340,
+    width: 60,
+    height: 60,
+    color: [54, 162, 22]
+}
 
 
 
@@ -41,12 +57,18 @@ function setup() {
 function draw() {
     background(backgroundColor);
 
+    // Sun getting bigger
+    sun.size += 1.5;
+
+
+
     // The sun
     push();
     noStroke();
     fill(sun.color);
     ellipse(sun.x, sun.y, sun.size);
     pop();
+
 
     // Little house
     push();
@@ -63,5 +85,15 @@ function draw() {
     pop();
 
     //tree 
+    push();
+    fill(treeTrunk.color);
+    noStroke(0);
+    rect(treeTrunk.x, treeTrunk.y, treeTrunk.width, treeTrunk.height);
+    pop();
 
+    push();
+    fill(treeLeaves.color);
+    noStroke(0);
+    ellipse(treeLeaves.x, treeLeaves.y, treeLeaves.width, treeLeaves.height);
+    pop();
 }
