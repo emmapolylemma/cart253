@@ -33,3 +33,5 @@ Variable work:
 ![Screenshot](./The%20end%20of%20the%20world!!!!/Screenshot%20of%20the%20end%20of%20the%20world.png)
 [Jounral entry for the end of the world](./The%20end%20of%20the%20world!!!!/journal.md)
 
+[Funky shapes](./funky%20shapes/js/script.js)
+![Screenshot](./funky%20shapes/Screenshot%20of%20funky%20shapes.png)
