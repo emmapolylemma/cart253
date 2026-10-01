@@ -35,3 +35,4 @@ Variable work:
 
 [Funky shapes](./funky%20shapes/js/script.js)
 ![Screenshot](./funky%20shapes/Screenshot%20of%20funky%20shapes.png)
+[Journal entry for the funky shapes](./funky%20shapes/js/Journal.md)
