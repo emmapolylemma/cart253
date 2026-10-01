@@ -28,3 +28,8 @@ Variable work:
 [Color changing ant](./Color%20changing%20ant/js/script.js)
 ![Screenshot](./Color%20changing%20ant/screenshot%20of%20color%20changing%20ant.png)
 [Journal entry for the color changing ant](./Color%20changing%20ant/js/journal.md)
+
+[The end of the world](./The%20end%20of%20the%20world!!!!/js/script.js)
+![Screenshot](./The%20end%20of%20the%20world!!!!/Screenshot%20of%20the%20end%20of%20the%20world.png)
+[Jounral entry for the end of the world](./The%20end%20of%20the%20world!!!!/journal.md)
+

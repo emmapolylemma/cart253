@@ -1,5 +1,5 @@
 # Color changing ant
-## 10 / 01 / 2026
+## 01 / 10 / 2026
 ----------
 For this project, i wanted to focus on the color changing aspect of the ant. I didnt use variables to change any of the names but like I said, i really wanted to focus on the color changing instead of renaming stuff.
 
