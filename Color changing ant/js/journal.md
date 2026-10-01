@@ -8,3 +8,7 @@ Ants are among my favourite insects and are fun to doodle. Around my sketchbook 
 The color changing aspect I found facisnating thus i wanted to make this ant change color when the curser moved. I wanted each part of the ant to change color on it own. the antennas and legs had to match with some of the body because i couldnt figure out how each could change color individually. 
 
 I like going clubbing and out partying so I image this ant is partying hard! I wonder what song is playing through his silly little head.
+
+----------------------------
+
+Check out the README.MD to find the link to watch the ant change color!!
