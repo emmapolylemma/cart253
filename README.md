@@ -26,4 +26,4 @@ Prototypes:
 Variable work:
 
 [Color changing ant](./Color%20changing%20ant/js/script.js)
-![]
+![Screenshot](./Color%20changing%20ant/)
