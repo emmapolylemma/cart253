@@ -1,24 +1,32 @@
 /**
- * Title of Project
- * Author Name
+ * Color changing ant
+ * Emma Rose Forget
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * Look at this color changing ant. It changes color when you move your cursor around it.
  */
 
 "use strict";
 
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
+ * Create a canvas
 */
 function setup() {
-
+    CreateCanvas(400, 400);
 }
 
 
 /**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
+ * Making the ant
 */
 function draw() {
+    Background(255);
+
+
+    push();
+    fill(255, 0, 0);
+    noStoke();
+    ellipse(200, 200, 100, 100);
+    pop();
+
 
 }
