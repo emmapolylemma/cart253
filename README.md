@@ -4,10 +4,12 @@
 
 Prototypes:
 
-[The Sun](./the%20sun/js/script.js)
+### [Link to website](https://emmapolylemma.github.io/cart253/the%20sun/)
+### [Link to github](https://github.com/emmapolylemma/cart253/tree/main/the%20sun)
 ![Screenshot](./the%20sun/the%20sun%20screenshot.png)
+[The Sun](./the%20sun/js/script.js)
 [Journal entry for the sun](./the%20sun/Journal.md)
-### [Link for the sun](https://github.com/emmapolylemma/cart253/tree/main/the%20sun)
+
 
 ----------------
 
