@@ -12,7 +12,7 @@ const targetCircle = {
     size: 100,
     fill: "#ff0000", // red to start
     fills: {
-        noOverlap: "#fea2a2", // red for no overlap
+        noOverlap: "#ffcece", // red for no overlap
         overlap: "#000000" // green for overlap
     }
 };
