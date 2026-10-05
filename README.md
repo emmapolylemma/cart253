@@ -14,15 +14,13 @@ Prototypes:
 [Ladybug](./Ladybug/js/script.js)
 ![Screenshot](./Ladybug/ladybug%20screenshot.png)
 [Journal entry for the ladybug](./Ladybug/journal.md)
---------
 [Link](https://github.com/emmapolylemma/cart253/tree/main/Ladybug)
 
 
 [Heart](./heart/js/script.js)
 ![Screenshot](./heart/heart%20screenshot.png)
 [Journal entry for the heart](/heart/Journal.md)
-------
-[Link](https://github.com/emmapolylemma/cart253/tree/main/heart)
+### [Link for heart](https://github.com/emmapolylemma/cart253/tree/main/heart)
 
 ----------------------
 -----------------------
