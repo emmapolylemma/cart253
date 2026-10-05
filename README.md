@@ -2,8 +2,8 @@
 
 ## Where I will store all my work for this class
 
-Prototypes:
---
+### Prototypes:
+----------------
 The Sun
 
  [Link to website](https://emmapolylemma.github.io/cart253/the%20sun/)
