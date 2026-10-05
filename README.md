@@ -6,7 +6,7 @@
 ----------------
  The Sun
 
- [Screenshot](./the%20sun/the%20sun%20screenshot.png)
+ ![Screenshot](./the%20sun/the%20sun%20screenshot.png)
 
  [Link to website](https://emmapolylemma.github.io/cart253/the%20sun/)
 
