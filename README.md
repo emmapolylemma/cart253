@@ -9,8 +9,11 @@
  ![Screenshot](./the%20sun/the%20sun%20screenshot.png)
 
  [Link to website](https://emmapolylemma.github.io/cart253/the%20sun/)
+
  [Link to github](https://github.com/emmapolylemma/cart253/tree/main/the%20sun)
+
  [Script](./the%20sun/js/script.js)
+ 
  [Journal entry](./the%20sun/Journal.md)
 
 
