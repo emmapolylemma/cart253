@@ -38,14 +38,14 @@ Variable work:
 [The end of the world](./The%20end%20of%20the%20world!!!!/js/script.js)
 ![Screenshot](./The%20end%20of%20the%20world!!!!/Screenshot%20of%20the%20end%20of%20the%20world.png)
 [Jounral entry for the end of the world](./The%20end%20of%20the%20world!!!!/journal.md)
-### [Link](https://github.com/emmapolylemma/cart253/tree/main/The%20end%20of%20the%20world!!!!)
+### [Link for the end of the world](https://github.com/emmapolylemma/cart253/tree/main/The%20end%20of%20the%20world!!!!)
 
 ----------------
 
 [Funky shapes](./funky%20shapes/js/script.js)
 ![Screenshot](./funky%20shapes/Screenshot%20of%20funky%20shapes.png)
 [Journal entry for the funky shapes](./funky%20shapes/js/Journal.md)
-### [Link](https://github.com/emmapolylemma/cart253/tree/main/funky%20shapes)
+### [Link for the funky shapes](https://github.com/emmapolylemma/cart253/tree/main/funky%20shapes)
 
 ----------------------
 -----------------------
