@@ -12,3 +12,21 @@ function drawCircle() {
     circle(circle.x, circle.y, circle.size);
     pop();
 }
+
+
+
+
+
+
+function growThing(){ 
+    thing.size += thing.growthRate;
+
+}
+
+function checkThingSize(){
+    const thingSize = (thing.size >= thing.maxSize);
+    if (thingSize) {
+        thing.growthRate = 0;
+    }
+
+}
