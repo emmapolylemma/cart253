@@ -1,9 +1,9 @@
 /**
- * Title of Project
- * Author Name
+ * Growing Circle
+ * Emma Rose Forget
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * A very basic growing pink circle. 
+ * Press any key and watch it shrink, press with you mouse and watch it grow
  */
 
 "use strict";
