@@ -1,6 +1,6 @@
-# TITLE OF PROJECT
+# Growing circle
 
-AUTHOR NAME
+Emma Rose Forget
 
 [View this project online](URL_FOR_THE_RUNNING_PROJECT)
 

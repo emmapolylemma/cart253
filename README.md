@@ -99,3 +99,23 @@
 ### Conditionals
 [Journal entry for conditionals](./color%20changing%20cube/js/journal.md)
 
+---------
+ ![Screenshot](./Growing%20circle/growing%20circle%20screenshot.png)
+
+ [Link to website](http://127.0.0.1:5500/Growing%20circle/)
+
+ [Link to Github](https://github.com/emmapolylemma/cart253/tree/main/Growing%20circle)
+
+ [Script](https://github.com/emmapolylemma/cart253/blob/main/Growing%20circle/js/script.js)
+
+------------
+ ![Screenshot](./find%20the%20target/find%20the%20target%20screenshot.png)
+
+ [Link to website](http://127.0.0.1:5500/find%20the%20target/)
+
+ [Link to github](https://github.com/emmapolylemma/cart253/tree/main/find%20the%20target)
+
+ [Script](https://github.com/emmapolylemma/cart253/blob/main/find%20the%20target/js/script.js)
+
+----------
+ ![Screenshot](./color%20changing%20cube/js/)
