@@ -8,54 +8,94 @@
 
 "use strict";
 
-const thing = {
+const me = {
     x: 200,
     y: 250,
     size: 100,
-    fill: ("blue"),
+    fill: ("pink"),
     fills: {
-        mouseClick: ("yellow"),
-        keyTapped: ("pink"),
-        regular: ("red")
+        mouseClick: ("#cce5ff"),
+        keyTapped: ("#e5ccff"),
+        regular: ("#FFCCE5")
     }
 };
+
+const myLove = {
+    x: 40,
+    y: 30,
+    size: 150,
+    fill: ("#EC89FF"),
+    fills: {
+        mouseClick: ("#F6C1FF"),
+        keyTapped: ("#D2FFD7"),
+        regular: ("#E6CDFF")
+    }
+}
 
 
 // create the canvas
 function setup() {
-    createCanvas(400, 500);
+    createCanvas(350, 400);
 }
 
 
 // background and functions
 function draw() {
-    background("violet");
+    background("#D1C3D4");
 
     checkInput();
-    drawThing();
+    checkHisInput();
+    drawUs();
 }
 
-// draw the square
-function drawThing() {
-    // square
+// draw the squares
+function drawUs() {
+    // me
     push();
     noStroke();
-    fill(thing.fill);
-    square(thing.x, thing.y, thing.size);
+    fill(me.fill);
+    square(me.x, me.y, me.size);
     pop();
+
+    // laurent <3
+    push();
+    noStroke();
+    fill(myLove.fill);
+    square(myLove.x, myLove.y, myLove.size);
+    pop();
+
 }
 
-// square functions
+
+// my square
 function checkInput() {
     if (mouseIsPressed) {
-        thing.fill = thing.fills.mouseClick;
+        me.fill = me.fills.mouseClick;
+
     }
 
     else if (keyIsPressed) {
-        thing.fill = thing.fills.keyTapped;
+        me.fill = me.fills.keyTapped;
     }
 
     else {
-        thing.fill = thing.fills.regular;
+        me.fill = me.fills.regular;
     }
+
+}
+
+function checkHisInput() {
+    if (mouseIsPressed) {
+        myLove.fill = myLove.fills.mouseClick;
+
+    }
+
+    else if (keyIsPressed) {
+        myLove.fill = myLove.fills.keyTapped;
+    }
+
+    else {
+        myLove.fill = myLove.fills.regular;
+    }
+
 }
