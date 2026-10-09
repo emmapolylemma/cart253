@@ -15,7 +15,7 @@ const target = {
     fill: (0, 0, 0),
     fills: {
         noOverlap: (0, 0, 0),
-        overlap: (255, 204, 229)
+        overlap: ("#FFCCE5")
     }
 };
 
