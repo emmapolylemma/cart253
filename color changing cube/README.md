@@ -1,13 +1,12 @@
-# TITLE OF PROJECT
+# Us
 
-AUTHOR NAME
+Emma Rose Forget
 
 [View this project online](URL_FOR_THE_RUNNING_PROJECT)
 
 ## Description
 
-This description should help the reader understand what the program is, anything they should know to be able to experience it (controls, special features, etc.), and what the desired user experience is. For example:
-
+Its me and the love of my life talking to each other if we were squares
 ## Attribution
 
 This bit should attribute any code, assets or other elements used taken from other sources. For example:

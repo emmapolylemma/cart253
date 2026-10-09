@@ -96,3 +96,6 @@
 
 ----------------------
 -----------------------
+### Conditionals
+[Journal entry for conditionals](./color%20changing%20cube/js/journal.md)
+
