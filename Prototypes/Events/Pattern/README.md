@@ -1,12 +1,12 @@
-# TITLE OF PROJECT
+# Patterns
 
-AUTHOR NAME
+Emma Rose Forget
 
 [View this project online](URL_FOR_THE_RUNNING_PROJECT)
 
 ## Description
 
-This description should help the reader understand what the program is, anything they should know to be able to experience it (controls, special features, etc.), and what the desired user experience is. For example:
+Click with your mouse or press any key and make your pattern. See what you can do!
 
 ## Attribution
 
