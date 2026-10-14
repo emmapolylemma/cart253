@@ -6,9 +6,9 @@
 ----------------
  The Sun
 
- ![Screenshot](./the%20sun/the%20sun%20screenshot.png)
+ ![Screenshot](./Prototypes/First%20prototypes/the%20sun/the%20sun%20screenshot.png)
 
- [Link to website](https://emmapolylemma.github.io/cart253/the%20sun/)
+ [Link to website](http://127.0.0.1:5500/Prototypes/First%20prototypes/the%20sun/)
 
  [Link to github](https://github.com/emmapolylemma/cart253/tree/main/the%20sun)
 
@@ -90,7 +90,7 @@
 
  [Script](./funky%20shapes/js/script.js)
 
- [Journal entry](./funky%20shapes/js/Journal.md)
+ [Journal entry](./Prototypes/)
 
 
 
