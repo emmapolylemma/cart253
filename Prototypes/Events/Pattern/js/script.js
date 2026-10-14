@@ -101,6 +101,7 @@ function draw() {
 
 }
 
+// stars the movement
 function mousePressed() {
     ball.velocity.x = ball.speed;
 
@@ -111,12 +112,13 @@ function mousePressed() {
     hello.y += 4;
 }
 
+// changes directions if clicked
 function mouseReleased() {
     pointy.y -= 10
 
     hello.y += 6
 }
-
+// changes directions if key is presssed
 function keyPressed() {
     pointy.y += 4
 
