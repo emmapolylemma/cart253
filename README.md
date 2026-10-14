@@ -43,48 +43,35 @@
 ### Variable work:
 
 --------------
-[Journal entry for variables]()
+[Journal entry for variables](./Prototypes/Variables/The%20end%20of%20the%20world!!!!/Journal%20entry%20for%20variables.md)
 --------------
  Color changing ant
 
- ![Screenshot](./Color%20changing%20ant/screenshot%20of%20color%20changing%20ant.png)
+ ![Screenshot](./Prototypes/Variables/Color%20changing%20ant/screenshot%20of%20color%20changing%20ant.png)
 
- [Link to website](https://emmapolylemma.github.io/cart253/Color%20changing%20ant/)
+ [View online](http://127.0.0.1:5500/Prototypes/Variables/Color%20changing%20ant/)
  
- [Link to github](https://github.com/emmapolylemma/cart253/tree/main/heart)
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Variables/Color%20changing%20ant/js/script.js)
 
- [Script](./Color%20changing%20ant/js/script.js)
-
- [Journal entry ](./Color%20changing%20ant/js/journal.md)
-
-
+ 
 ---------------
  The end of the world
 
- ![Screenshot](./The%20end%20of%20the%20world!!!!/Screenshot%20of%20the%20end%20of%20the%20world.png)
+ ![Screenshot](./Prototypes/Variables/The%20end%20of%20the%20world!!!!/Screenshot%20of%20the%20end%20of%20the%20world.png)
 
- [Link to website](https://emmapolylemma.github.io/cart253/The%20end%20of%20the%20world!!!!/)
+ [View online](http://127.0.0.1:5500/Prototypes/Variables/The%20end%20of%20the%20world!!!!/)
 
- [Link to the github](https://github.com/emmapolylemma/cart253/tree/main/The%20end%20of%20the%20world!!!!)
-
- [Script](./The%20end%20of%20the%20world!!!!/js/script.js) 
-
- [Jounral entry](./The%20end%20of%20the%20world!!!!/journal.md)
-
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Variables/The%20end%20of%20the%20world!!!!/js/script.js)
 
 
 ----------------
  Funky shapes
 
- ![Screenshot](./funky%20shapes/Screenshot%20of%20funky%20shapes.png)
+ ![Screenshot](./Prototypes/Variables/funky%20shapes/Screenshot%20of%20funky%20shapes.png)
 
- [Link to website](https://emmapolylemma.github.io/cart253/funky%20shapes/)
+ [View online](http://127.0.0.1:5500/Prototypes/Variables/funky%20shapes/)
 
- [Link to github](https://github.com/emmapolylemma/cart253/tree/main/funky%20shapes)
-
- [Script](./funky%20shapes/js/script.js)
-
- [Journal entry](./Prototypes/)
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Variables/funky%20shapes/js/script.js)
 
 
 
@@ -94,31 +81,34 @@
 [Journal entry for conditionals](./color%20changing%20cube/js/journal.md)
 
 ---------
- ![Screenshot](./Growing%20circle/growing%20circle%20screenshot.png)
+ Growing circle
 
- [Link to website](http://127.0.0.1:5500/Growing%20circle/)
+ ![Screenshot](./Prototypes/Conditionals/Growing%20circle/growing%20circle%20screenshot.png)
 
- [Link to Github](https://github.com/emmapolylemma/cart253/tree/main/Growing%20circle)
+ [View online](http://127.0.0.1:5500/Prototypes/Conditionals/Growing%20circle/)
 
- [Script](https://github.com/emmapolylemma/cart253/blob/main/Growing%20circle/js/script.js)
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Conditionals/Growing%20circle/js/script.js)
+
 
 ------------
- ![Screenshot](./find%20the%20target/find%20the%20target%20screenshot.png)
+ Find the target
 
- [Link to website](http://127.0.0.1:5500/find%20the%20target/)
+ ![Screenshot](./Prototypes/Conditionals/find%20the%20target/Screenshot%20of%20find%20the%20target.png)
 
- [Link to github](https://github.com/emmapolylemma/cart253/tree/main/find%20the%20target)
+ [View online](http://127.0.0.1:5500/Prototypes/Conditionals/find%20the%20target/)
 
- [Script](https://github.com/emmapolylemma/cart253/blob/main/find%20the%20target/js/script.js)
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Conditionals/find%20the%20target/js/script.js)
+
 
 ----------
- ![Screenshot](./Us/screenshot%20of%20cubes.png)
+ Us
 
- [Link to webiste](http://127.0.0.1:5500/Us/)
+ ![Screenshot](./Prototypes/Conditionals/Us/screenshot%20of%20cubes.png)
 
- [Link to Github](https://github.com/emmapolylemma/cart253/tree/main/Us)
+ [View online](http://127.0.0.1:5500/Prototypes/Conditionals/Us/)
 
- [Script](https://github.com/emmapolylemma/cart253/blob/main/Us/js/script.js)
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Conditionals/Us/js/script.js)
+
 
 -----------------
 -----------------

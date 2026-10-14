@@ -12,4 +12,5 @@ Check out this projects READ.md file to watch the sun grow!
 
 
 -------
-I lost the goddamn code for the
+I lost the goddamn code for the the color changing and the the funky shapes... im sorry :/
+i dont know what happened and why my whole codes got fucked up
