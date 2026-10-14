@@ -4,44 +4,36 @@
 
 ### Prototypes:
 ----------------
+[Journal entry for first prototypes](./Prototypes/First%20prototypes/heart/Journal%20entry%20for%20first%20prototypes.md)
+----------------
+
  The Sun
 
  ![Screenshot](./Prototypes/First%20prototypes/the%20sun/the%20sun%20screenshot.png)
 
- [Link to website](http://127.0.0.1:5500/Prototypes/First%20prototypes/the%20sun/)
+ [View online](http://127.0.0.1:5500/Prototypes/First%20prototypes/the%20sun/)
 
- [Link to github](https://github.com/emmapolylemma/cart253/tree/main/the%20sun)
-
- [Script](./the%20sun/js/script.js)
-
- [Journal entry](./the%20sun/Journal.md)
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/First%20prototypes/the%20sun/js/script.js)
 
 
 ----------------
  Ladybug
- ![Screenshot](./Ladybug/ladybug%20screenshot.png)
+ ![Screenshot](./Prototypes/First%20prototypes/Ladybug/ladybug%20screenshot.png)
 
- [Link to website](https://emmapolylemma.github.io/cart253/Ladybug/)
+ [View online](http://127.0.0.1:5500/Prototypes/First%20prototypes/Ladybug/)
 
- [Link to github](https://github.com/emmapolylemma/cart253/tree/main/Ladybug)
-
- [Script](./Ladybug/js/script.js)
-
- [Journal entry](./Ladybug/journal.md)
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/First%20prototypes/Ladybug/js/script.js)
 
 
 -------------
  Heart
 
- ![Screenshot](./heart/heart%20screenshot.png)
+ ![Screenshot](./Prototypes/First%20prototypes/heart/heart%20screenshot.png)
 
- [Link to webiste](https://emmapolylemma.github.io/cart253/heart/)
+ [View online](http://127.0.0.1:5500/Prototypes/First%20prototypes/heart/)
 
- [Link to github](https://github.com/emmapolylemma/cart253/tree/main/heart)
-  
- [Script](./heart/js/script.js)
-
- [Journal entry ](/heart/Journal.md)
+ [View code](https://github.com/emmapolylemma/cart253/tree/main/heart)
+ 
 
 
 ----------------------
@@ -50,6 +42,8 @@
 
 ### Variable work:
 
+--------------
+[Journal entry for variables]()
 --------------
  Color changing ant
 
