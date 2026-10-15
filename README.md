@@ -113,3 +113,36 @@
 
 -----------------
 -----------------
+### Events
+
+-------------
+[Journal entry for event](./Prototypes/Events/journal%20entry%20for%20events.md)
+--------------
+ Pattern
+
+ ![Screenshot](./Prototypes/Events/Pattern/Screenshot%20of%20pattern.png)
+
+ [View online](http://127.0.0.1:5500/Prototypes/Events/Pattern/)
+
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Events/Pattern/js/script.js)
+
+------------------
+ Dots
+
+ ![Screenshot](./Prototypes/Events/Dots!/ss%20of%20dots.png)
+
+ [View online](http://127.0.0.1:5500/Prototypes/Events/Dots!/)
+
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Events/Dots!/js/script.js)
+
+----------------
+ Chicken pox
+
+ ![Screenshot](./Prototypes/Events/chicken%20pox/Screenshot%20of%20chicken%20pox.png)
+
+ [View online](http://127.0.0.1:5500/Prototypes/Events/chicken%20pox/)
+
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Events/chicken%20pox/js/script.js)
+
+-------------
+-------------
