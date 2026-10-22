@@ -146,3 +146,15 @@
 
 -------------
 -------------
+### Functions
+
+-----------
+[Journal entry for functions](./Prototypes/Functions/journal%20entry%20for%20functions.md)
+-------------
+ Garden
+
+ ![Screenshot](./Prototypes/Functions/Garden/garden%20ss.png)
+
+ [View online](http://127.0.0.1:5500/Prototypes/Functions/Garden/)
+
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Functions/Garden/js/script.js)
