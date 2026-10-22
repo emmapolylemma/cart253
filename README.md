@@ -158,3 +158,21 @@
  [View online](http://127.0.0.1:5500/Prototypes/Functions/Garden/)
 
  [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Functions/Garden/js/script.js)
+
+---------------
+ Anger or Serenity?
+
+ ![Screenshot](./Prototypes/Functions/Anger%20or%20Serenity/AoS%20ss.png)
+
+ [View online](http://127.0.0.1:5500/Prototypes/Functions/Anger%20or%20Serenity/)
+
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Functions/Anger%20or%20Serenity/js/script.js)
+
+---------------
+ Lurking
+
+ ![Screenshot](./Prototypes/Functions/Lurking/PippinScreenshot.png)
+
+ [View online](http://127.0.0.1:5500/Prototypes/Functions/Lurking/)
+
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Functions/Lurking/js/script.js)
