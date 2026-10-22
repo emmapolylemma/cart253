@@ -1,24 +1,37 @@
 /**
- * Title of Project
- * Author Name
+ * Lurking
+ * Emma Rose Forget
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * Who's that lurking in the background?
  */
 
 "use strict";
 
-/**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
-*/
+let img;
+let opacity = 0;
+
+function preload() {
+    img = loadImage('assets/images/mrPippin.png')
+}
+
+
+// making the canvas
 function setup() {
+    createCanvas(700, 700);
+    background("#E0E0E0");
 
 }
 
 
-/**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
-*/
 function draw() {
+    text("Who is that?", 100, 350);
+
+    tint(255, opacity);
+    image(img, 1, 1, 700, 700);
+
+    if (opacity < 255) {
+        opacity += 0.05;
+    }
+
 
 }
