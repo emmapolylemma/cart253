@@ -1,24 +1,17 @@
 /**
- * Title of Project
- * Author Name
+ * What will my cat say?
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ *Click with your mouse to see what my cat, Batman, has to say
  */
 
 "use strict";
 
-/**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
-*/
+// make the canvas
 function setup() {
-
+    createCanvas(900, 600);
+    background("#d4c3c9");
 }
 
-
-/**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
-*/
 function draw() {
 
 }
