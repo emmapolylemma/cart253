@@ -40,7 +40,7 @@ function draw() {
     pop();
 }
 
-// everytime the mouse is pressed, these happen
+// everytime the mouse is pressed, these things happen
 function mousePressed() {
     meowing.play();
 
