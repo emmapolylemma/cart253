@@ -177,3 +177,35 @@
 
  [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Functions/Lurking/js/script.js)
 
+-------------
+-------------
+### Arrays
+
+-----------
+[Journal entry for Arrays](./Prototypes/Arrays/journal.md)
+------------
+ What will my cat say?
+
+ ![Screenshot](./Prototypes/Arrays/what%20will%20my%20cat%20say/batman%20ss.png)
+
+ [View online](https://emmapolylemma.github.io/cart253/Prototypes/Arrays/what%20will%20my%20cat%20say/)
+
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Arrays/what%20will%20my%20cat%20say/js/script.js)
+
+--------------
+ Me and my manz
+
+ ![Screenshot](./Prototypes/Arrays/me%20and%20my%20manz/me%20and%20my%20man%20ss.png)
+
+ [View online](https://emmapolylemma.github.io/cart253/Prototypes/Arrays/me%20and%20my%20manz/)
+
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Arrays/me%20and%20my%20manz/js/script.js)
+
+---------------
+ Emojis
+
+ ![Screenshot](./Prototypes/Arrays/Emojis/emoji%20ss.png)
+
+ [View online](https://emmapolylemma.github.io/cart253/Prototypes/Arrays/Emojis/)
+
+ [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Arrays/Emojis/js/script.js)
