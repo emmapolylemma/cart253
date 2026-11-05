@@ -1,6 +1,6 @@
 /**
- * Title of Project
- * Author Name
+ * 
+ * Emma Rose Forget
  * 
  * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
  * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
@@ -8,17 +8,18 @@
 
 "use strict";
 
-/**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
-*/
-function setup() {
+let us = [];
 
+function preload() {
+    us[0] = loadImage("assets/images/EL1")
+    us[1] = loadImage("assets/images/EL2")
+}
+
+function setup() {
+    createCanvas(500, 500)
 }
 
 
-/**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
-*/
 function draw() {
-
+    background("#ffd7d7");
 }
