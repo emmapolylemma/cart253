@@ -23,7 +23,9 @@ let carName = "Click to generate a car name.";
  * Load the car and dinosaur data
  */
 async function preload() {
+    carData = await loadJSON("assets/data/cars.json");
 
+    dinosaurData = await loadJSON("assets/data/dinosaurs.json");
 }
 
 /**
@@ -53,5 +55,5 @@ function draw() {
  * Generate a new car name
  */
 function mousePressed() {
-
+    carName = random(carData.cars) + " " + random(dinosaurData.dinosaurs)
 }

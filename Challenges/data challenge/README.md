@@ -1,12 +1,10 @@
-# TITLE OF PROJECT
+# Weird Cars
 
-AUTHOR NAME
-
-[View this project online](URL_FOR_THE_RUNNING_PROJECT)
+Emma Rose Forget
 
 ## Description
 
-This description should help the reader understand what the program is, anything they should know to be able to experience it (controls, special features, etc.), and what the desired user experience is. For example:
+everytime you click, a car name pops up. Consists of a car brand and dinosaur name.
 
 ## Attribution
 
