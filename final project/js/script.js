@@ -8,17 +8,24 @@
 
 "use strict";
 
-/**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
-*/
-function setup() {
+let bug = [];
+let currentImage = 0;
+
+
+function preload() {
+    bug[0] = loadImage("images/bee.png");
+    bug[1] = loadImage("images/firefly.png")
 
 }
 
+// creates the canvas
+function setup() {
+    createCanvas(1000, 850)
+}
 
-/**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
-*/
+// 
 function draw() {
+    background("#cccccc");
 
+    image(bug[currentImage], 50, 50, 500, 500);
 }
