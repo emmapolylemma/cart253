@@ -1,9 +1,8 @@
 /**
- * Title of Project
- * Author Name
+ * Insect family and friends!
+ * Emma Rose Forget
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * This project is about me and my close ones. My family, my boyfriend, and two close friends. I asked them to pick an insect and they all chose their type. The pink isopod in the middle is me, going over to say "hello!"
  */
 
 "use strict";
@@ -48,6 +47,7 @@ function draw() {
     // sloth moth (still)
     image(bug[3], -20, 550, 300, 300);
     image(bug[10], -20, 540, 300, 300);
+    // ignore the fact that its not in order,its just to put the insect together instead of it being confusing!
 
     // bettle (purple)
     image(bug[4], 650, 500, 350, 300);
