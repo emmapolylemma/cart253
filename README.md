@@ -209,3 +209,7 @@
  [View online](https://emmapolylemma.github.io/cart253/Prototypes/Arrays/Emojis/)
 
  [View code](https://github.com/emmapolylemma/cart253/blob/main/Prototypes/Arrays/Emojis/js/script.js)
+
+-------------
+-------------
+### Final Project
