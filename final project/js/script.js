@@ -13,7 +13,7 @@ let currentImage = 0;
 
 
 function preload() {
-    bug[1] = loadImage("images/bee.png");
+    bug[0] = loadImage("images/bee.png");
     bug[1] = loadImage("images/firefly.png");
     bug[2] = loadImage("images/moth.png");
     bug[3] = loadImage("images/sloth_happy.png");
