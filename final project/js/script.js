@@ -36,16 +36,31 @@ function setup() {
 function draw() {
     background("#cccccc");
 
-    image(bug[currentImage], 50, 50, 500, 500);
-    image(bug[1], 50, 50, 500, 500);
-    image(bug[2], 50, 50, 500, 500);
-    image(bug[3], 50, 50, 500, 500);
-    image(bug[4], 50, 50, 500, 500);
-    image(bug[5], 50, 50, 500, 500);
-    image(bug[6], 50, 50, 500, 500);
-    image(bug[7], 50, 50, 500, 500);
-    image(bug[8], 50, 50, 500, 500);
-    image(bug[9], 50, 50, 500, 500);
-    image(bug[10], 50, 50, 500, 500);
+    // bee
+    image(bug[currentImage], 800, 150, 150, 150);
+
+    // firefly
+    image(bug[1], 720, 150, 200, 200);
+
+    // moth
+    image(bug[2], 10, 0, 250, 250);
+
+    // sloth moth (still)
+    image(bug[3], -20, 550, 300, 300);
+    image(bug[10], -20, 540, 300, 300);
+
+    // bettle (purple)
+    image(bug[4], 650, 500, 350, 300);
+    image(bug[5], 650, 496, 350, 300);
+
+    // dung bettle (blue)
+    image(bug[6], 700, 10, 300, 200);
+    image(bug[7], 690, 5, 300, 200);
+
+    // isopod
+    image(bug[8], 300, 300, 300, 200);
+    image(bug[9], 340, 285, 200, 200);
+
+
 
 }
