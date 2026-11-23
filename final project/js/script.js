@@ -8,24 +8,23 @@
 
 "use strict";
 
-let bug = [];
-let currentImage = 0;
+let bug;
 
 
-function preload() {
-    bug[0] = loadImage("images/bee.png");
-    bug[1] = loadImage("images/firefly.png")
+async function setup() {
+    img = await
+        loadImage('images/moth.png');
 
 }
 
 // creates the canvas
 function setup() {
-    createCanvas(1000, 850)
+    createCanvas(1000, 850);
 }
 
 // 
 function draw() {
     background("#cccccc");
 
-    image(bug[currentImage], 50, 50, 500, 500);
+    bug(img, 0, 0);
 }
