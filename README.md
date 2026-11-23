@@ -213,3 +213,5 @@
 -------------
 -------------
 ### Final Project
+
+[Journal entry for the final project](./final%20project/journal%20entry.md)
