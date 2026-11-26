@@ -17,9 +17,11 @@ function setup() {
     createCanvas(1000, 800);
 
     // *
-    for (let imgs of ricky) {
-        rickyX.push(0);
-        rickySpeed.push(random(2, 6));
+    for (let pictures of ricky) {
+        // starting position
+        rickyX.push(-100);
+
+        rickySpeed.push(random(1, 3));
     }
 }
 
@@ -48,7 +50,7 @@ function draw() {
         rickyX[i] += rickySpeed[i];
 
         // stops the rickys when it hits the other side
-        if (rickyX[i] > width - 80) {
+        if (rickyX[i] > width - 70) {
             noLoop();
         }
     }
