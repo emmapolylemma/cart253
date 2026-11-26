@@ -1,6 +1,6 @@
 # Ricky Race
 
-AUTHOR NAME
+Emma Rose Forget
 
 [View this project online](https://emmapolylemma.github.io/cart253/final%20project/ricky%20race/)
 
