@@ -1,21 +1,42 @@
 /**
- * Insect family and friends!
+ * Ricky Rain Frogs
  * Emma Rose Forget
  * 
- * This project is about me and my close ones. My family, my boyfriend, and two close friends. I asked them to pick an insect and they all chose their type. The pink isopod in the middle is me, going over to say "hello!"
+ 
  */
 
 "use strict";
 
+let rickys = [];
+
+
 
 // creates the canvas
 function setup() {
-    createCanvas(1000, 850)
+    createCanvas(800, 500)
 }
 
-// 
 function draw() {
-    background("#cccccc");
+    background("#ffffff");
+
+    // push();
+    // noStroke();
+    // fill("Green");
+    // circle(50, 250, 50);
+    // pop();
+
+    let diameter = 100
+    let x = 100;
+    let y = 250;
+
+    while (x <= 700) {
+
+        fill("Green");
+        noStroke();
+        circle(x, y, diameter);
+        x += diameter;
+    }
+
 }
 
 

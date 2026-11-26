@@ -12,8 +12,7 @@ For this project you use the arrow keys to move the isopod. Move the isopod and 
 
 > - This project uses [p5.js](https://p5js.org).
 > - All images for this project is drawn by me with insect references
-> - Used code and reference of ["Tile Based Movement"] by Pippin Barr (https://editor.p5js.org/pippinbarr/sketches/fD7Ha1Yva)
-> - Ai is used for help, code, and teaching 
+
 
 ## License
 
