@@ -2,7 +2,7 @@
  * Ricky Rain Frogs
  * Emma Rose Forget
  * 
- 
+    Rickys offer words of advice for somebody who struggles with their mental health. Click the screen to hear their words.
  */
 
 "use strict";
