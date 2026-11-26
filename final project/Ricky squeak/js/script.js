@@ -13,7 +13,7 @@ let currentImage = 0;
 let squeak;
 
 // text that pops up
-let texts = ["Hello Friends!", "It's okay to take time to yourself", "Sometimes things don't go the way you want it", "but it happens..", "Don't beat yourself up for something as small as that", "things come and go,", "but they came!"];
+let texts = ["Hello Friends!", "It's okay to take time to yourself.", "Sometimes, things don't go the way you planned,", "but it happens..", "Don't beat yourself up for something like that.", "Things come and go,", "but they came!"];
 let textIndex = 0;
 
 function preload() {
