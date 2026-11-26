@@ -19,3 +19,6 @@ I realized while making the project that what I wanted to achieve was way beyond
 What I would like to do is about my emotional support stuffed animal (funny i know), ricky rain frog. I was hard for me to accept that my skills arent as good as I thought and for support I picked up my stuffed animal and brainstormed a new idea. 
 
 my first small project will be an array of all the differet types of rickys, all with texts, probably motivational quotes or upbringing words. It will also play a squeaky toy sound once the mouse is pressed
+
+my second project is my most disappointing one. I used AI to help me generate the code. I asked ai to help me understand the code and what / why to write it. Im disappointed I did this.
+
