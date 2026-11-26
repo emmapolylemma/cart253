@@ -38,8 +38,10 @@ function setup() {
 function draw() {
     background("#ffffff");
 
+    //  loading the images
     image(ricky[currentImage], 200, 150, 600, 600);
 
+    // line of text
     let currentLine = texts[textIndex];
     // Text display
     push();
@@ -47,12 +49,10 @@ function draw() {
     textSize(32);
     text(currentLine, 100, 200);
     pop();
-
-
 }
 
 
-
+// what happens when you press the mouse (cycle through the images, text, and play the squeak noise)
 function mousePressed() {
     currentImage = currentImage + 1;
 
