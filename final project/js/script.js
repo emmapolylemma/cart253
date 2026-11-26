@@ -10,6 +10,11 @@
 let bug = [];
 let currentImage = 0;
 
+// moving the isopod
+let x = 100;
+let y = 100;
+let speed = 5;
+
 
 function preload() {
     bug[0] = loadImage("images/bee.png");
@@ -61,6 +66,19 @@ function draw() {
     image(bug[8], 300, 300, 300, 200);
     image(bug[9], 340, 285, 200, 200);
 
+
+
+}
+
+function keyPressed(event) {
+    let move = {
+        x: 0,
+        y: 0
+    }
+
+    if (event.keyCode === RIGHT_ARROW) {
+
+    }
 
 
 }
