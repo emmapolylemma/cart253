@@ -6,7 +6,7 @@ Emma Rose Forget
 
 ## Description
 
-For this project you use the arrow keys to move the isopod. Move the isopod and interact with the other bugs!
+For this project, you must click the screen with your mouse to see what the rickys have to tell you. As you click, a squeak reminates from the rickys as the pass by when you click.
 
 ## Attribution
 
