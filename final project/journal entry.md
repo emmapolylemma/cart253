@@ -14,7 +14,7 @@ My plans for the next step is to make the pink isopod (which represents me) move
 
 
 ### Week 3: complete redo
-I realized while making the project that what I wanted to achieve was way beyond my skills, therefore I will make smaller final project, maybe more than one, within my skill level.
+I realized while making the project that what I wanted to achieve was way beyond my skills, therefore I will make 3 smaller final project, within my skill level.
 
 What I would like to do is about my emotional support stuffed animal (funny i know), ricky rain frog. I was hard for me to accept that my skills arent as good as I thought and for support I picked up my stuffed animal and brainstormed a new idea. 
 
