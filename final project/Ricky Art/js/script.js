@@ -35,13 +35,27 @@ function draw() {
     push();
     fill("Black");
     circle(450, 250, 60);
-    noStroke();
     pop();
 
     push();
     fill("Black");
     circle(800, 250, 60);
-    noStroke();
     pop();
+
+    // mouth
+
+    let mouthX = [450, 480, 520, 560, 590, 630, 660, 700, 735, 765, 800];
+
+    let mouthY = [400, 420, 425, 435, 435, 435, 430, 425, 415, 405, 385];
+
+    // color of mouth
+    fill("Black")
+
+    for (let i = 0; i < mouthX.length; i++) {
+        circle(mouthX[i], mouthY[i], 40);
+    };
+
+
+
 
 }
