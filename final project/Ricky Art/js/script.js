@@ -55,7 +55,27 @@ function draw() {
         circle(mouthX[i], mouthY[i], 40);
     };
 
+    // ground
+    push();
+    stroke("#3a2c1b")
+    line(0, 600, 145, 600);
+    pop();
+
+    push();
+    stroke("#3a2c1b")
+    line(955, 600, 1100, 600);
+    pop();
 
 
+}
+
+// When mouse pressed, a green circle appears
+function mousePressed() {
+
+    push();
+    noStroke();
+    fill("#38943e");
+    ellipse(mouseX, mouseY, 100);
+    pop();
 
 }
